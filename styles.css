@@ -1,14 +1,24 @@
 h1 {
     color: palevioletred;
     text-align: center;
+    font-size: 60px; 
+
     
+  }
+
+  h2 {
+      text align: center;
+      color: palevioletred;
+      float: :right;
   }
   nav {
     list-style-type: none;
-    margin: 20px 0 0 ;
+    margin: 0;
+    margin left: 20px;
+    text decoration: none;
+    color: none; 
     padding: 0;
     background-color: #f1f1f1;
-    padding: 8px 16px;
     float: left;
     overflow: hidden;
     font-size: 40px; 
