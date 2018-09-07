@@ -3,3 +3,17 @@ h1 {
     text-align: center;
     
   }
+  nav {
+    list-style-type: none;
+    margin: 20px 0 0 ;
+    padding: 0;
+    background-color: #f1f1f1;
+    padding: 8px 16px;
+    float: left;
+    overflow: hidden;
+    font-size: 40px; 
+    color: #596365; 
+    letter-spacing: normal;
+    border-left-color: aqua;
+}
+  }
