@@ -9,14 +9,15 @@ h1 {
   h2 {
       text align: center;
       color: palevioletred;
-      float: :right;
+      display: block;
+
   }
   nav {
     list-style-type: none;
     margin: 0;
     margin left: 20px;
     text decoration: none;
-    color: none; 
+    color: blue; 
     padding: 0;
     background-color: #f1f1f1;
     float: left;
@@ -26,4 +27,9 @@ h1 {
     letter-spacing: normal;
     border-left-color: aqua;
 }
+  p {
+      color: brown;
+      font size: 90x;
+      text size: 90x;
+
   }
